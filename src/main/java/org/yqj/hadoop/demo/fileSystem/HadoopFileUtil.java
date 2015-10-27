@@ -1,4 +1,4 @@
-package org.yqj.hadoop.demo;
+package org.yqj.hadoop.demo.fileSystem;
 
 import org.apache.hadoop.fs.FSDataInputStream;
 import org.apache.hadoop.fs.FileSystem;
@@ -23,7 +23,7 @@ public class HadoopFileUtil {
             FileSystemFactoryBean fileSystemFactoryBean =(FileSystemFactoryBean)context.getBean("hadoopFs");
             FileSystem fileSystem = fileSystemFactoryBean.getObject();
             FSDataInputStream out = null;
-            Path hdfsPath =new Path("/user/yaoqijun/teacher/part-m-00000");
+            Path hdfsPath =new Path("/user/yaoqijun/employee/part-m-00000");
             try {
                 out = fileSystem.open(hdfsPath);
             } catch (Exception e) {

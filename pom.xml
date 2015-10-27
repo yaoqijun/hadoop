@@ -16,17 +16,10 @@
             <version>1.12.2</version>
         </dependency>
 
-        <!-- guava -->
         <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>18.0</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi-excelant</artifactId>
-            <version>3.10-FINAL</version>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.15</version>
         </dependency>
 
         <!--  spring data  -->
@@ -34,10 +27,6 @@
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-hadoop</artifactId>
             <version>2.2.0.RELEASE</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.data</groupId>
