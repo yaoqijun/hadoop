@@ -2,7 +2,7 @@ package org.yqj.hadoop.demo.hadoop;
 
 /**
  * Created by yaoqijun.
- * Date:2015-10-26
+ * Date:2015-10-28
  * Email:yaoqj@terminus.io
  * Descirbe:
  */
