@@ -1,4 +1,4 @@
-package org.yqj.hadoop.demo.fileSystem;
+package org.yqj.hadoop.demo.fileSystemTest;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileStatus;

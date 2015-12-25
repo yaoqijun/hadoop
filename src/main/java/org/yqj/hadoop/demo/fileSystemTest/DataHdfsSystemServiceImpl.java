@@ -1,4 +1,4 @@
-package org.yqj.hadoop.demo.fileSystem;
+package org.yqj.hadoop.demo.fileSystemTest;
 
 import com.google.common.base.Strings;
 import org.apache.hadoop.fs.FSDataInputStream;

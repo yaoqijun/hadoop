@@ -1,4 +1,4 @@
-package org.yqj.hadoop.demo.hadoop;
+package org.yqj.hadoop.spring;
 
 /**
  * Created by yaoqijun.
